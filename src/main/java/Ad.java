@@ -1,3 +1,4 @@
+//ads constructor
 public class Ad {
     private long id;
     private long userId;

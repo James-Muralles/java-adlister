@@ -1,3 +1,4 @@
+//this is where I create my ads and create an array list where I add my ads into the List.
 import java.util.ArrayList;
 import java.util.List;
 
